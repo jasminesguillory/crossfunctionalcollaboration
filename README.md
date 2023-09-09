@@ -8,7 +8,7 @@ Summary:
   
   The department in need of assistance provides an Excel document that is read only
   
-  This process inhibit efficient completion of the project due to multiple people working on one project resulting in wasted time
+  This Excel docement inhibits efficient completion of the project due to multiple people working on one project resulting in wasted time
   
   Microsoft Azure with Resource Groups, Storage Accounts and Containers will provide an alternative software solution to enhance efficiency and minimize duplicate efforts
 
