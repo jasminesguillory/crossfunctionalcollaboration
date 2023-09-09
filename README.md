@@ -13,15 +13,15 @@ Creating a system in which two departments can function cohesively.
   Microsoft Azure with Resource Groups, Storage Accounts and Containers will provide an alternative software solution to enhance efficiency and minimize duplicate efforts
 
 <p> <strong>Step 1/strong>.</p>
-![Step 1](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/24c3f187-d43b-44e8-835b-60408fe3f245)
+(https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/24c3f187-d43b-44e8-835b-60408fe3f245)
 
 <p> <strong>Step 1/strong>.</p>
-![Step 2](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/80ab2604-0ee7-4d20-9cfd-9e2d21f775b2)
+(https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/80ab2604-0ee7-4d20-9cfd-9e2d21f775b2)
 
 <p> <strong>Step 1/strong>.</p>
-![Step 3](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/af641e42-38dc-42aa-8268-d133851015ea)
+(https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/af641e42-38dc-42aa-8268-d133851015ea)
 
 <p> <strong>Step 1/strong>.</p>
-![Step 4](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/2948c71a-64d8-4661-b881-255c8d7006c6)
+(https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/2948c71a-64d8-4661-b881-255c8d7006c6)
 
 
