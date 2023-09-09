@@ -12,8 +12,8 @@ Summary:
   
   Microsoft Azure with Resource Groups, Storage Accounts and Containers will provide an alternative software solution to enhance efficiency and minimize duplicate efforts
 
-Step 1
-![Step 1](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/24c3f187-d43b-44e8-835b-60408fe3f245)
+**Step 1
+**![Step 1](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/24c3f187-d43b-44e8-835b-60408fe3f245)
 
 Step 2
 ![Step 2](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/80ab2604-0ee7-4d20-9cfd-9e2d21f775b2)
