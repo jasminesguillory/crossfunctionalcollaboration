@@ -1,4 +1,4 @@
-<p>This is <strong>Cross Functional Collaboration</strong> text.</p>
+<p> <strong>Cross Functional Collaboration</strong>.</p>
 
 Creating a system in which two departments can function cohesively.
 
