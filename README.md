@@ -26,6 +26,7 @@ Step 3
 
 ![Step 3](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/4d8e70c3-958b-40b6-8f77-ae99d9eb0c7f)
 
+
 Step 4
 
 ![Step 4](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/3ef9ed33-9df1-4c59-ae61-c0f44ec1e46a)
