@@ -1,5 +1,4 @@
-<p>This is <strong>bold</strong> text.</p>
-# Cross Functional Collaboration
+<p>This is <strong>Cross Functional Collaboration</strong> text.</p>
 
 Creating a system in which two departments can function cohesively.
 
