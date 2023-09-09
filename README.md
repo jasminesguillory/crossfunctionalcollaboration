@@ -14,9 +14,17 @@ Creating a system in which two departments can function cohesively.
 
 Step 1
 
+![Step 1](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/67309b03-dcff-4baf-9703-386b04258895)
+
+
 Step 2
 
+![Step 2](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/8046cfd1-453d-44f3-b3e3-d0bf129f65fc)
+
+
 Step 3
+
+![Step 3](https://github.com/jasminesguillory/crossfunctionalcollaboration/assets/144185629/4d8e70c3-958b-40b6-8f77-ae99d9eb0c7f)
 
 Step 4
 
