@@ -1,3 +1,4 @@
+<p>This is <strong>bold</strong> text.</p>
 # Cross Functional Collaboration
 
 Creating a system in which two departments can function cohesively.
